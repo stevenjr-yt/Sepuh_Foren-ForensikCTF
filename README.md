@@ -5,3 +5,4 @@ Kami telah mengidentifikasi bahwa data di dalam bukti tersebut dibungkus dengan 
 Lapisan tengah berkurang menjadi separuh dari lapisan pertama
 Dilapisan akhir, kami menemukan bahwa lapisan tersebut dikunci sangat rapat dan kami belum mengetahui kuncinya 
 Namun, berdasarkan profiling, tersangka melakukan otentikasi (login) ke sistem sesaat sebelum mengirim data dan memututs koneksi. mungkin itu bisa membantu dalam memecahkan kasus ini
+a
